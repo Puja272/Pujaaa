@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Puja Mazumdar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" height="40%"  width="40%" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fsingle-page-application-abstract-concept-illustration-spa-web-page-web-development-trend-app-inside-browser-dynamically-rewriting-page-responsive-website-creation_335657-899.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ffront-end-developer&tbnid=FAxNSPMEPviVuM&vet=12ahUKEwjy_ZXd0Lv9AhWmkdgFHby_BzEQMyhYegUIARDCAQ..i&docid=W2I1GgeBlVP9qM&w=626&h=626&q=front%20end%20developer%20image&ved=2ahUKEwjy_ZXd0Lv9AhWmkdgFHby_BzEQMyhYegUIARDCAQ">
+<img align="right" height="40%"  width="40%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ffront-end-developer&psig=AOvVaw0dhLZzd8u-ObG3dniDM4ie&ust=1677791015527000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIi_od_Qu_0CFQAAAAAdAAAAABAF">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pujam&label=Profile%20views&color=0e75b6&style=flat" alt="pujam" /> </p>
 
 - 🌱 I’m currently learning **DSA**
