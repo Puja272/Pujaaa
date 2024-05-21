@@ -1,4 +1,4 @@
-# Puja MAzumdar
+# Puja Mazumdar
 <h1 align="center">Hi 👋, I'm  Puja </h1>
 <h3 align="center">A developer from India</h3>
 
